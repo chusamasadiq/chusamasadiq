@@ -44,6 +44,4 @@
 [facebook]:  https://www.facebook.com/in/mianusamasadiq/
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-
-
+<img align="left" ![5eKX](https://user-images.githubusercontent.com/58989903/128564494-40e7c25f-7d37-4ec5-8263-8a05740e7d5a.gif)/>
