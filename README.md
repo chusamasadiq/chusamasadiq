@@ -42,5 +42,5 @@
 [youtube]:   https://www.youtube.com/channel/UCQTcyzcyVgruoTWul6QEUyA
 [instagram]: https://www.instagram.com/ch.usamasadiq/
 [linkedin]:  https://www.linkedin.com/in/chusamasadiq/
-[facebook]:  https://www.linkedin.com/in/mianusamasadiq/
+[facebook]:  https://www.facebook.com/in/mianusamasadiq/
 
