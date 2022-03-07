@@ -1,4 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Usama Sadiq</h1>
 
 
@@ -46,4 +45,5 @@
 </br>
 </br>
 </br>
-<img align="left" alt="GIF" src="https://github.com/chusamasadiq/chusamasadiq/blob/main/5eKX.gif?raw="true" width="400" height="280" />
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<!-- <img align="left" alt="GIF" src="https://github.com/chusamasadiq/chusamasadiq/blob/main/5eKX.gif?raw="true" width="400" height="280" /> -->
