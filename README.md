@@ -1,10 +1,12 @@
-# Hi there, I'm Usama Sadiq 👋
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Usama Sadiq</h1>
+
 
 ## I'm a Developer, and Teacher!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 💼 any freelance work? do reach, [email](mailto:usamasadiq163@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
