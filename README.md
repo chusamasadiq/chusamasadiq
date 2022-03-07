@@ -41,9 +41,3 @@
 [linkedin]:  https://www.linkedin.com/in/chusamasadiq/
 [facebook]:  https://www.facebook.com/mianusamasadiq
 
-<img align="right" alt="GIF" src="https://github.com/chusamasadiq/chusamasadiq/blob/main/code.gif?raw=true" width="400" height="320" />
-</br>
-</br>
-</br>
-<a href="#"><img align="left" width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<!-- <img align="left" alt="GIF" src="https://github.com/chusamasadiq/chusamasadiq/blob/main/5eKX.gif?raw="true" width="400" height="280" /> -->
