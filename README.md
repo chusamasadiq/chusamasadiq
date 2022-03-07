@@ -9,7 +9,7 @@
 - 💼 any freelance work? do reach, [email](mailto:usamasadiq163@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-## 📊 My Github Stats
+## My Github Stats
 
   <br/>
 <a href="https://github.com/chusamasadiq/github-readme-stats">
