@@ -9,7 +9,7 @@
 - 💼 Any freelance work? do reach, [email](mailto:usamasadiq163@gmail.com) :)
 - 💬 Ask me about anything, i am happy to help;
 
-## 🚀 Languages and Tools:
+##Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
