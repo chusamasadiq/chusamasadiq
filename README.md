@@ -1,4 +1,4 @@
-# Hi <img src="https://github.com/chusamasadiq/chusamasadiq/blob/main/wave.gif"  width="30px" height = "40" /> I'm Usama Sadiq 
+# Hi <img src="https://github.com/chusamasadiq/chusamasadiq/blob/main/wave.gif"  width="30px" height = "30" /> I'm Usama Sadiq 
 
 ## I'm a Developer, and Teacher!!
 
