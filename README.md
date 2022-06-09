@@ -1,4 +1,4 @@
-# Hi👋 I'm Usama Sadiq 
+# Hi <img src="https://github.com/chusamasadiq/chusamasadiq/blob/main/wave.gif"/> I'm Usama Sadiq 
 
 
 ## I'm a Developer, and Teacher!!
