@@ -52,5 +52,6 @@
 [instagram]: https://www.instagram.com/ch.usamasadiq/
 [linkedin]:  https://www.linkedin.com/in/chusamasadiq/
 [twitter]:   https://twitter.com/MianUsamaSadiq
+[web]:       https://usamasadiq.engineer/
 [youtube]:   https://www.youtube.com/channel/UCQTcyzcyVgruoTWul6QEUyA
-[web]:   https://usamasadiq.engineer/
+
