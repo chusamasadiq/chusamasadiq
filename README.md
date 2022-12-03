@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- 💼 Any freelance work? do reach, [email](mailto:usamasadiq163@gmail.com) :)
-- 💬 Ask me about anything, i am happy to help you;
+- 💼 Any freelance work? do reach, [email](mailto:usamasadiq163@gmail.com)
+- 💬 Ask me about anything. I am happy to help you;
 
 ## Languages and Tools:
 
