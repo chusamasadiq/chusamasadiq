@@ -1,4 +1,4 @@
-# Hi, I'm Usama Sadiq 
+# Hi! I'm Usama Sadiq 
 
 ## I'm a Developer, and Teacher!!
 
