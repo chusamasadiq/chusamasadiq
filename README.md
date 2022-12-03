@@ -1,8 +1,9 @@
 # Hi! I'm Usama Sadiq 
 
+##
 ### Enthusiastic professional software engineer skilled in leadership with a strong foundation in OOP, Web, Cross-platform coding, and Graphics Designing. I work on projects passionately, but I’ll be happy to discuss new opportunities. Let’s get in touch!
 
-## - 🌱 I’m currently learning everything
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 💼 Any freelance work? do reach! [email](mailto:usamasadiq163@gmail.com)
@@ -37,7 +38,7 @@
 <a href="https://github.com/chusamasadiq/github-readme-stats"><img  width=50% alt="Usama Sadiq's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chusamasadiq&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  /></a>
 
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt=" | Facebook" width="30px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
 [<img align="left" alt=" | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
