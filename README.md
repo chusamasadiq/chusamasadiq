@@ -1,7 +1,6 @@
 # Hi! I'm Usama Sadiq 
 
-### Enthusiastic professional software engineer skilled in leadership with a strong foundation in OOP, Web, Cross-platform coding, and Graphics Designing. I work on projects passionately, but I’ll be happy to discuss new opportunities. Let’s get in touch!
----
+#### Enthusiastic professional software engineer skilled in leadership with a strong foundation in OOP, Web, Cross-platform coding, and Graphics Designing. I work on projects passionately, but I’ll be happy to discuss new opportunities. Let’s get in touch
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
