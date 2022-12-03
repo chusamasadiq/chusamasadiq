@@ -1,8 +1,8 @@
 # Hi! I'm Usama Sadiq 
 
-### Enthusiastic professional software engineer skilled in leadership with a strong foundation in OOP, Web, Cross-platform coding, and Graphics Designing. I work on projects passionately, but I’ll be happy to discuss new opportunities. Let’s get in touch!
+#### Enthusiastic professional software engineer skilled in leadership with a strong foundation in OOP, Web, Cross-platform coding, and Graphics Designing. I work on projects passionately, but I’ll be happy to discuss new opportunities. Let’s get in touch!
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning Flutter (Mobile Application) Developement
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 💼 Any freelance work? do reach! [email](mailto:usamasadiq163@gmail.com)
@@ -43,7 +43,7 @@
 [<img align="left" alt=" | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt=" | LinkedIn" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt=" | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt=" | Website" width="30px" src="https://img.icons8.com/fluent/48/000000/www.png" />][website]
+[<img align="left" alt=" | Website" width="30px" src="https://img.icons8.com/fluent/48/000000/globe.png" />][website]
 [<img align="left" alt=" | YouTube" width="30px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
 
 
