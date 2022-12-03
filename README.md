@@ -40,7 +40,7 @@
 ## Connect with me:
 
 [<img align="left" alt=" | Facebook" width="30px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
-[<img align="left" alt=" | Whatsapp" width="30px" src="https://img.icons8.com/fluent/48/000000/whatsapp.png" />][whatsapp]
+[<img align="left" alt=" | Whatsapp" width="30px" src="https://img.icons8.com/fluent/48/000000/whatsapp-new.png" />][whatsapp]
 [<img align="left" alt=" | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt=" | LinkedIn" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt=" | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
