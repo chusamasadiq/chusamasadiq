@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/chusamasadiq/chusamasadiq/blob/main/Flutter.gif)](https://usamasadiq.engineer)
 
- <h1 style = "text-align: center";>Hi! I'm Usama Sadiq</h1> 
+ <h1 style = "text-align: center;">Hi! I'm Usama Sadiq</h1> 
 <h4>Enthusiastic professional software engineer skilled in leadership with a strong foundation in OOP, Web, Cross-platform coding, and Design principles. I work on projects passionately, but I’ll be happy to discuss new opportunities. Let’s get in touch!</h4>
 
 - 🌱 I’m currently learning Flutter (Mobile Application) Development
