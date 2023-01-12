@@ -26,8 +26,6 @@
     <a href="https://www.mathworks.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/matlab.png"/> </a> 
     </p>
     
-[[MasterHead](https://github.com/chusamasadiq/chusamasadiq/blob/main/Flutter.gif)](https://usamasadiq.engineer)
-
 ## Connect with me:
 
 [<img align="left" alt=" | Facebook" width="30px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
@@ -37,8 +35,6 @@
 [<img align="left" alt=" | Twitter" width="30px" src="https://img.icons8.com/color/twitter.png" />][twitter]
 [<img align="left" alt=" | Website" width="30px" src="https://img.icons8.com/color/512/domain.png" />][website]
 [<img align="left" alt=" | YouTube" width="30px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
-
-
 
 [facebook]:  https://www.facebook.com/mianusamasadiq
 [whatsapp]:  https://api.whatsapp.com/send?phone=923346994830
