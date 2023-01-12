@@ -1,6 +1,6 @@
 # Hi! I'm Usama Sadiq 
 
-#### Enthusiastic professional software engineer skilled in leadership with a strong foundation in OOP, Web, Cross-platform coding, and Design principles. I work on projects passionately, but I’ll be happy to discuss new opportunities. Let’s get in touch!
+### Enthusiastic professional software engineer skilled in leadership with a strong foundation in OOP, Web, Cross-platform coding, and Design principles. I work on projects passionately, but I’ll be happy to discuss new opportunities. Let’s get in touch!
 
 - 🌱 I’m currently learning Flutter (Mobile Application) Development
 - 👯 I’m looking to collaborate with other content creators
