@@ -1,6 +1,4 @@
-[![MasterHead](https://github.com/chusamasadiq/chusamasadiq/blob/main/Flutter.gif)](https://usamasadiq.engineer)
-
- <h1 align="center">Hi! I'm Usama Sadiq</h1> 
+ <h1>Hi! I'm Usama Sadiq</h1> 
 <h4 align="center">Enthusiastic professional software engineer skilled in leadership with a strong foundation in OOP, Web, Cross-platform coding, and Design principles. I work on projects passionately, but I’ll be happy to discuss new opportunities. Let’s get in touch!</h4>
 
 - 🌱 I’m currently learning Flutter (Mobile Application) Development
@@ -27,6 +25,8 @@
     <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/> </a> 
     <a href="https://www.mathworks.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/matlab.png"/> </a> 
     </p>
+    
+    [![MasterHead](https://github.com/chusamasadiq/chusamasadiq/blob/main/Flutter.gif)](https://usamasadiq.engineer)
 
 ## Connect with me:
 
