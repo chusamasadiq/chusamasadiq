@@ -41,6 +41,6 @@
 [instagram]: https://www.instagram.com/ch.usamasadiq/
 [linkedin]:  https://www.linkedin.com/in/chusamasadiq/
 [twitter]:   https://twitter.com/MianUsamaSadiq
-[website]:   https://usamasadiq.engineer/
+[website]:   https://chusama.dev/
 [youtube]:   https://www.youtube.com/channel/UCQTcyzcyVgruoTWul6QEUyA
 
