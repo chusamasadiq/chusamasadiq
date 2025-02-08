@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Flutter (Mobile Application) Development
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Learn Backend Node.Js & Flutter Advanced Concepts
+- 🥅 2025 Goals: Learn Artificial Intelligence, Data Science & Flutter Advanced Concepts
 - 💼 Any freelance work? do reach! [email](mailto:usamasadiq163@gmail.com)
 - 💬 Ask me about anything. I am happy to help you
 
